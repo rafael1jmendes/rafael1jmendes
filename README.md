@@ -4,7 +4,7 @@
 
 - 🔭 Estou buscando oportunidade para ingressar na area de TI especificamente back-end
 - 🌱 Aprendendo e desenvolvendo em JAVA
-- 📫 How to reach me: rafael1jmendes@gmail.com
+- 📫 Contate-me: rafael1jmendes@gmail.com
 - 😄 Pronouns: ele/dele
 
   ##
