@@ -9,13 +9,11 @@
 
   ##
 
-<a href="https://github.com/rafael1jmendes">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=rafael1jmendes&theme=dracula"/>
-</a>
 
-<a href="https://github.com/rafael1jmendes">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael1jmendes?tab=repositories&layout=compact&langs_count=8&card_width=320&icons=true&theme=dracula"/>
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafael1jmendes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael1jmendes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
+</div>
 
 <div style="display: inline_block"><br>
      <img align="center" alt="Rafa-JAVA" heigt="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
