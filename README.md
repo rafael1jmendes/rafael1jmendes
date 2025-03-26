@@ -10,7 +10,7 @@
   ##
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=rafael1jmends&theme=ambient_gradient" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=rafael1jmendes&theme=ambient_gradient" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
