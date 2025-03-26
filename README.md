@@ -9,12 +9,12 @@
 
   ##
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=rafael1jmendes&theme=ambient_gradient"/>
+<a href="https://github.com/rafael1jmendes">
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=rafael1jmendes&theme=dracula"/>
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael1jmendes&layout=compact&langs_count=8&card_width=320&icons=true&theme=ambient_gradient"/>
+<a href="https://github.com/rafael1jmendes">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael1jmendes&layout=compact&langs_count=8&card_width=320&icons=true&theme=dracula"/>
 </a>
 
 <div style="display: inline_block"><br>
