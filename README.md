@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://github.com/rafael1jmendes">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael1jmendes&layout=compact&langs_count=8&card_width=320&icons=true&theme=dracula"/>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael1jmendes?tab=repositories&layout=compact&langs_count=8&card_width=320&icons=true&theme=dracula"/>
 </a>
 
 <div style="display: inline_block"><br>
