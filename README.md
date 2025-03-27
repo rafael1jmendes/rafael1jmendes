@@ -12,7 +12,7 @@
 
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafael1jmendes" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael1jmendes&repo=convoychat" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael1jmendes&layout=compact&langs_count=8&card_width=320" />
 
 
 <div style="display: inline_block"><br>
