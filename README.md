@@ -10,11 +10,12 @@
   ##
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafael1jmendes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael1jmendes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael1jmendes&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-</div>
+<a 
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafael1jmendes" />
+</a>
+<a 
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael1jmendes&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <div style="display: inline_block"><br>
      <img align="center" alt="Rafa-JAVA" heigt="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
