@@ -12,7 +12,7 @@
 
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafael1jmendes" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael1jmendes&hide_progress=&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael1jmendes&hide_progress=false&card_width=320" />
 
 
 <div style="display: inline_block"><br>
