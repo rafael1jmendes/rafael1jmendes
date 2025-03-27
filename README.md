@@ -10,12 +10,11 @@
   ##
 
 
-<a 
+
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafael1jmendes" />
-</a>
-<a 
+
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael1jmendes&layout=compact&langs_count=8&card_width=320" />
-</a>
+
 
 <div style="display: inline_block"><br>
      <img align="center" alt="Rafa-JAVA" heigt="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
