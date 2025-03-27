@@ -12,8 +12,7 @@
 
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafael1jmendes" />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael1jmendes&hide_progress=true)
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael1jmendes&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael1jmendes&layout=compact&card_width=320" />
 
 
 <div style="display: inline_block"><br>
